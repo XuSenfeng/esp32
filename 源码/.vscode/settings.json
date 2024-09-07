@@ -1,7 +1,7 @@
 {
   "C_Cpp.intelliSenseEngine": "default",
   "idf.adapterTargetName": "esp32",
-  "idf.portWin": "COM6",
+  "idf.portWin": "COM10",
   "idf.openOcdConfigs": [
     "board/esp32-bridge.cfg"
   ],
